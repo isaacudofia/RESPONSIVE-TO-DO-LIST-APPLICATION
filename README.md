@@ -5,7 +5,7 @@
 **## Features:**
 
 - **Add, edit, and delete tasks**
-- **Mark tasks as complete**
+- **Responsive design for optimal viewing on different devices**
 - **Clean and user-friendly interface**
 
 **## Technologies Used:**
