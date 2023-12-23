@@ -6,7 +6,6 @@
 
 - **Add, edit, and delete tasks**
 - **Mark tasks as complete**
-- **Responsive design for optimal viewing on different devices**
 - **Clean and user-friendly interface**
 
 **## Technologies Used:**
@@ -23,13 +22,5 @@
    ```
 2. Open the `index.html` file in your browser.
 
-**## Usage:**
 
-1. Type a task in the input field and press Enter to add it to the list.
-2. Click on a task to edit or mark it as complete.
-3. Click the trash icon to delete a task.
-
-**## Screenshots:**
-
-[Insert a screenshot of the application here]
 
