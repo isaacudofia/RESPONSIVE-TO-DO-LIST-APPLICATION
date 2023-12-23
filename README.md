@@ -23,4 +23,4 @@
 2. Open the `index.html` file in your browser.
 
 **##Screenshoot**
-
+<img "./Internal storage/DCIM/screenshot/picture1.jpg" width="300">
